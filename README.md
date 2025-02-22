@@ -3,6 +3,11 @@
 👋 Welcome! This repo is for the tutorials and homeworks for the ODSL block course:
 https://indico.ph.tum.de/event/7810/
 
+**Open in collab**
+
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/odsl-team/block-course-feb25-ML/blob/main/)
+
+
 If you're taking the course for ECTS points:
 - **Homeworks are due Fri, 21/3/2025**
 - Please submit (via email) to Nicole and Baran:
