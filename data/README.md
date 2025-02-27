@@ -16,7 +16,10 @@ Below are enumerated the datasets we'll be using in week 1.
 
 ## MNIST
 
-- Used for Tutorial 4
+-  Homework 2
+-  Tutorial 4
+
+https://drive.google.com/file/d/1eEKzfmEu6WKdRlohBQiqi3PhW_uIVJVP/view?usp=sharing
 
 ## Other science datasaets
 
