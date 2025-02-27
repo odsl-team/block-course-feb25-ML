@@ -19,7 +19,12 @@ Below are enumerated the datasets we'll be using in week 1.
 -  Homework 2
 -  Tutorial 4
 
+You can download the MNIST dataset by clicking on the link below:
+
 https://drive.google.com/file/d/1eEKzfmEu6WKdRlohBQiqi3PhW_uIVJVP/view?usp=sharing
+
+Afterwards, you either have to modify the data path in the notebooks to point to your downloads directory - Or you copy and paste the downloaded `MNIST_CSV` directory to `block-course-feb25-ML/data`.
+
 
 ## Other science datasaets
 
